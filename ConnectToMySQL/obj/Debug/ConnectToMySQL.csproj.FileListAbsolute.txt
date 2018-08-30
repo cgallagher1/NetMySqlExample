@@ -1,0 +1,9 @@
+C:\Users\chuck\Documents\Temp\ConnectToMySQL\ConnectToMySQL\bin\ConnectToMySQL.dll.config
+C:\Users\chuck\Documents\Temp\ConnectToMySQL\ConnectToMySQL\bin\ConnectToMySQL.dll
+C:\Users\chuck\Documents\Temp\ConnectToMySQL\ConnectToMySQL\bin\ConnectToMySQL.pdb
+C:\Users\chuck\Documents\Temp\ConnectToMySQL\ConnectToMySQL\obj\Debug\ConnectToMySQL.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\Temp\ConnectToMySQL\ConnectToMySQL\obj\Debug\ConnectToMySQL.dll
+C:\Users\chuck\Documents\Temp\ConnectToMySQL\ConnectToMySQL\obj\Debug\ConnectToMySQL.pdb
+C:\Users\chuck\Documents\Temp\ConnectToMySQL\ConnectToMySQL\bin\MySql.Data.dll
+C:\Users\chuck\Documents\Temp\ConnectToMySQL\ConnectToMySQL\bin\Google.Protobuf.dll
+C:\Users\chuck\Documents\Temp\ConnectToMySQL\ConnectToMySQL\obj\Debug\ConnectToMySQL.csproj.CopyComplete
